@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Git-Flowのテストです")
+        print("GitFlowのテストです")
     }
     
     func run() {
