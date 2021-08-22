@@ -15,4 +15,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("gitのテストです")
     }
+    
+    func run() {
+        
+    }
 }
