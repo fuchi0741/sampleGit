@@ -14,6 +14,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("GitFlowのテストです")
+        print("駆け出しエンジニアが実装スタート！！")
+        print("悩む")
+        print("ググる")
+        print("先輩エンジニアに質問する")
+        
     }
     
     func run() {
