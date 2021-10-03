@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         print("悩む")
         print("ググる")
         print("先輩エンジニアに質問する")
-        
+        print("駆け出しエンジニアが実装完了！！")
     }
     
     func run() {
